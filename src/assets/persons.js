@@ -20,6 +20,22 @@ export const data = {
     },
     {
       id: uuidv4(),
+      name: "Nitin Dhemiwal",
+      img: "",
+      links: {
+        website: "",
+        linkedin: "https://www.linkedin.com/in/dhemiwalnitin",
+        github: "https://github.com/zephyr007"
+      },
+      jobTitle: "Student At DTU",
+      location: {
+        city: "New Delhi",
+        state: "Delhi",
+        country: "India"
+      }
+    },
+    {
+      id: uuidv4(),
       name: "Mitch Hankins",
       img: "",
       links: {
